@@ -5,7 +5,7 @@
     <PackageId>Infor.Hangfire.Redis.StackExchange</PackageId>
     <IsPackable>true</IsPackable>
     <Version>0.0.1</Version>
-    <PackageVersion>1.8.4</PackageVersion>
+    <PackageVersion>0.0.1</PackageVersion>
     <Authors>Marco Casamento and contributors</Authors>
     <owners>marcocasamento</owners>
     <!--
