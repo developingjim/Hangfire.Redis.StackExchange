@@ -4,7 +4,7 @@
     <TargetFrameworks>net461;netstandard2.0</TargetFrameworks>
     <PackageId>Infor.Hangfire.Redis.StackExchange</PackageId>
     <IsPackable>true</IsPackable>
-    <Version>1.8.4</Version>
+    <Version>0.0.1</Version>
     <PackageVersion>1.8.4</PackageVersion>
     <Authors>Marco Casamento and contributors</Authors>
     <owners>marcocasamento</owners>
@@ -13,7 +13,7 @@
       There is no equivalent for the owners element in MSBuild. 
     -->
     <Product>Hangfire Redis Storage</Product>
-    <PackageProjectUrl>https://github.com/marcoCasamento/Hangfire.Redis.StackExchange</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/developingjim/Hangfire.Redis.StackExchange</PackageProjectUrl>
     <Description>
       Hangfire Redis Storage Based on Redis.StackExchange
       See http://hangfire.io/ for some more info on the main project
@@ -64,13 +64,14 @@
       - Aligned dependency to Hangfire.Core
     </PackageReleaseNotes>
     <PackageTags>Hangfire Redis</PackageTags>
-    <RepositoryUrl>https://github.com/marcoCasamento/Hangfire.Redis.StackExchange</RepositoryUrl>
+    <RepositoryUrl>https://github.com/developingjim/Hangfire.Redis.StackExchange</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <SignAssembly>false</SignAssembly>
     <AssemblyOriginatorKeyFile>Hangfire_Redis_StackExchange.snk</AssemblyOriginatorKeyFile>
     <PackageLicenseExpression>LGPL-3.0-or-later</PackageLicenseExpression>
-    <DelaySign>false</DelaySign>    
+    <DelaySign>false</DelaySign>
+    <Company>Marco Casamento and contributors</Company>    
     <!--<SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>../Hangfire_Redis_StackExchange.snk</AssemblyOriginatorKeyFile>-->
   </PropertyGroup>
